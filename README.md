@@ -2,9 +2,9 @@
 Is it worth introducing artificial lightinging greenhouses for vegetable growth in Bogota- Colombia?
 
 This Notebook adresses this question by breaking it down into the following three questions
- 1) what are the average hours of light per day in the region of Bogota
- 2) how much energy in forms of usable photons per square meter are shining in the region per day 
- 3) is there an influence if the inmediate enviroments is rather urban (for rooftop gardening) or rather rural (for large scale production)
+ 1) what are the average hours of light per day in the region of Bogota ?
+ 2) how much energy in forms of usable photons per square meter are shining in the region per day ?
+ 3) is there an influence if the inmediate enviroments is rather urban (for rooftop gardening) or rather rural (for large scale production) ?
  
 The data chosen to address these questions is data from the National Solar Radiation Database (NSRDB) available at https://maps.nrel.gov/nsrdb-viewer
 
